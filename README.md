@@ -1,5 +1,5 @@
 # UnitTestExample
-Intro to unit testing. /n
+Intro to unit testing.  
 Your README should inclue the following information for each structure type you are testing.
 ## Simple If
 Description: You want to know if two numbers are the same.  Write a simple if statement that will compare them and return "true" 
